@@ -1,0 +1,10 @@
+{
+    "firstname":"Abla",
+    "lastname":"Qaissi",
+    "AddressLine1":"Palestine",
+    "validPin":"000000",
+    "invalidPincode":"1",
+    "mobile":"972590000000",
+    "validEmail":"abla@gmail.com",
+    "invalidEmail":"abla"
+}
